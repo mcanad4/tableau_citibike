@@ -1,6 +1,6 @@
-# H1 # CitiBike Observation
+<H1> CitiBike Observation <H1>
 
-# H2 Gender Observations
+<H2> Gender Observations <H2>
 # H3 Users of CitiBike are overwhelmingly female with over 2x the number of users in 2020 as males.  When diggin deeper and looking at gender and age; ridership peaks with the 30 year old group and then declines as age increases.  This pattern holds for both male and female users.  Taking this one step further, we looked at the time of day that bikes are rented and the duration of the trip.  Not only do females use the bike more often , the average duration of trip is also longer.  Trip duration time peaks with start time at 3PM (15) for both male and female.
 
 # H2 User Type Observations
